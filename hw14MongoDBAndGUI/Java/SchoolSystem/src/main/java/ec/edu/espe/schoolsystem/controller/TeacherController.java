@@ -10,7 +10,7 @@ import ec.edu.espe.schoolsystem.model.Teacher;
 
 /**
  *
- * @author Daniel Codena, CodeBreakers, @ESPE
+ * @author Odalys Chavez, CodeBreakers, @ESPE
  */
 public class TeacherController {
 

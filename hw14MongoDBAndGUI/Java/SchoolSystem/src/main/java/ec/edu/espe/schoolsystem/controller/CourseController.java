@@ -9,7 +9,7 @@ import ec.edu.espe.schoolsystem.model.Course;
 
 /**
  *
- * @author Daniel Codena, CodeBreakers, @ESPE
+ * @author Odalys Chavez, CodeBreakers, @ESPE
  */
 public class CourseController {
 
